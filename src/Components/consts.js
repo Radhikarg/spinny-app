@@ -1,0 +1,3 @@
+export const ANIME_REQUEST = "ANIME_REQUEST";
+export const ANIME_SUCCESS = "ANIME_SUCCESS";
+export const ANIME_FAILURE = "ANIME_FAILURE";
