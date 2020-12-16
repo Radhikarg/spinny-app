@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spinny-app/static/css/main.dd28abd7.chunk.css",
+    "main.js": "/spinny-app/static/js/main.a6daac67.chunk.js",
+    "main.js.map": "/spinny-app/static/js/main.a6daac67.chunk.js.map",
+    "runtime-main.js": "/spinny-app/static/js/runtime-main.67659f8b.js",
+    "runtime-main.js.map": "/spinny-app/static/js/runtime-main.67659f8b.js.map",
+    "static/js/2.7e8f59bc.chunk.js": "/spinny-app/static/js/2.7e8f59bc.chunk.js",
+    "static/js/2.7e8f59bc.chunk.js.map": "/spinny-app/static/js/2.7e8f59bc.chunk.js.map",
+    "static/js/3.96a64524.chunk.js": "/spinny-app/static/js/3.96a64524.chunk.js",
+    "static/js/3.96a64524.chunk.js.map": "/spinny-app/static/js/3.96a64524.chunk.js.map",
+    "index.html": "/spinny-app/index.html",
+    "static/css/main.dd28abd7.chunk.css.map": "/spinny-app/static/css/main.dd28abd7.chunk.css.map",
+    "static/js/2.7e8f59bc.chunk.js.LICENSE.txt": "/spinny-app/static/js/2.7e8f59bc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/spinny-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67659f8b.js",
+    "static/js/2.7e8f59bc.chunk.js",
+    "static/css/main.dd28abd7.chunk.css",
+    "static/js/main.a6daac67.chunk.js"
+  ]
+}
